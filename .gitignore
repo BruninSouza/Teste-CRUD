@@ -1,0 +1,20 @@
+# Eclipse
+bin/
+.settings/
+.classpath
+.project
+
+# Arquivos de dados
+*.dat
+
+# Outros
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
